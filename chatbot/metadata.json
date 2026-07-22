@@ -1,0 +1,1 @@
+{"main_module":"worker.js","bindings":[{"name":"DEEPSEEK_API_KEY","type":"secret_text","text":"sk-69f31ff8db3f4b5b90989932f94b5540"},{"name":"ELEVENLABS_API_KEY","type":"secret_text","text":"sk_476e6a6eca80b7ebe81c14575cd74eef0846cec36766ab03"}]}

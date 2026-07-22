@@ -1,0 +1,8 @@
+.env
+chatbot/faq_content.txt
+chatbot/faq_clean.txt
+chatbot/build.py
+chatbot/check.py
+chatbot/test_payload.json
+*.pyc
+__pycache__/
